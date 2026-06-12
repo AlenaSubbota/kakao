@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>app_badge_response_payload</key>
+	<data>
+	eyJnaWZ0TGFzdEFkZGVkRGF0ZSI6ODAyOTU0ODAwLCJteU5ld3NMYXN0QWRkZWREYXRl
+	Ijo4MDI5NTg0ODgsIndlZWtkYXlTZXJpZXNUb29sdGlwIjp7InRpdGxlIjoiNzM4IHNl
+	cmllcyB1cGRhdGVkIiwidHlwZSI6IkZJWCJ9LCJub3RpY2VMYXN0QWRkZWREYXRlIjpu
+	dWxsLCJoZWxpeEdpZnRMYXN0QWRkZWREYXRlIjpudWxsfQ==
+	</data>
+	<key>should_update_profile</key>
+	<false/>
+	<key>tastes_genre</key>
+	<string>M</string>
+	<key>tastes_home_menu_id</key>
+	<integer>10000</integer>
+	<key>tastes_service_lang</key>
+	<data>
+	eyJ1c2VyU2VydmljZUxhbmciOiJrbyJ9
+	</data>
+	<key>text_tooltip_item_dismissed_date</key>
+	<dict>
+		<key>RootTabBarTab.dayOfWeek</key>
+		<date>2026-06-12T12:20:40Z</date>
+	</dict>
+</dict>
+</plist>

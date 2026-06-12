@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>downloadedItems</key>
+	<dict>
+		<key>66346705</key>
+		<dict>
+			<key>ageGrade</key>
+			<integer>19</integer>
+			<key>authors</key>
+			<string>낭토</string>
+			<key>category</key>
+			<string>웹툰</string>
+			<key>categoryTranslated</key>
+			<string>Comic</string>
+			<key>categoryUid</key>
+			<integer>10</integer>
+			<key>count</key>
+			<integer>1</integer>
+			<key>selfCensorship</key>
+			<true/>
+			<key>seriesId</key>
+			<string>66346705</string>
+			<key>size</key>
+			<real>8.27714</real>
+			<key>subCategory</key>
+			<string>드라마</string>
+			<key>subCategoryTranslated</key>
+			<string>Drama</string>
+			<key>subCategoryUid</key>
+			<integer>116</integer>
+			<key>title</key>
+			<string>남의 남자 [19세 완전판]</string>
+			<key>updatedDate</key>
+			<date>2026-06-12T12:20:54Z</date>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,4 @@
+{"identity":{"generator":"Crashlytics iOS SDK/11.4.0","display_version":"11.4.0","build_version":"11.4.0","started_at":1781266745,"session_id":"22b86ca1d1754b12be971a0573c9b1cd","app_quality_session_id":"f3fd2c1014b04a15b0c0ba79c35aa014","install_id":"","beta_token":"","absolute_log_timestamps":true}}
+{"host":{"model":"iPad8,6","machine":"Mac17,5","os_build_version":"25D2140","os_display_version":"26.3.0","platform":"ios","firebase_platform":"ios_on_mac","locale":"en_RU"}}
+{"application":{"bundle_id":"com.kakao.page","custom_bundle_id":null,"build_version":"1483","display_version":"7.30.0","extension_id":null}}
+{"executable":{"architecture":"arm64","uuid":"db69824186e73b61bcb0d150863a8c6b","base":4368859136,"size":18595840,"encrypted":false,"minimum_sdk_version":"0.0.0","built_sdk_version":"0.0.0"}}

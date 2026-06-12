@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>downloadedItems</key>
+	<dict>
+		<key>68187772</key>
+		<dict>
+			<key>downloadedAt</key>
+			<date>2026-06-12T12:22:07Z</date>
+			<key>orderValue</key>
+			<integer>47</integer>
+			<key>purchaseInfo</key>
+			<dict>
+				<key>purchaseType</key>
+				<string>not_purchased</string>
+			</dict>
+			<key>singleId</key>
+			<string>68187772</string>
+			<key>size</key>
+			<real>8.27714</real>
+			<key>slideType</key>
+			<string>SD03</string>
+			<key>title</key>
+			<string>46화 3년 전2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

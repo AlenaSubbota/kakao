@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>popup_main_home_event_data</key>
+	<data>
+	eyJzdWJ0aXRsZVRleHQiOiLso7zrp5Ag7LaU7LKc7J6RIOuztOufrOqwgOq4sCA+Iiwi
+	dGl0bGVUZXh0Ijoi7Jis642w7J207LqQ7IucXG4z7ZmU66eMIOu0kOuPhFxu7LqQ7Iuc
+	IOyEoOusvCDquLDtmowhIiwicG9wdXBJZCI6MTQ3MTgsImJhY2tncm91bmRJbWciOiJl
+	MTM2SFwvZEpNY2FpUmF6WnJcL24wSlNVa3dreDhyNEFYenlPZWFpNmsiLCJhbHRUZXh0
+	Ijoi7Jis642w7J207LqQ7IucIiwiYmFja2dyb3VuZENvbG9yIjoiIzAwYTk1MCIsInNj
+	aGVtZSI6Imtha2FvcGFnZTpcL1wvb3Blblwvd2Vidmlld1wvZXZlbnQ/aGFzaF91aWQ9
+	OTg3ZDE4M2RmNjIxMWY5M2ZiNTU4MzlkZTc1NDQ0MzAiLCJtYWluSW1nIjoiWUVVTmRc
+	L2RKTWNhYUZGRktuXC82QzZhUjg1d1ozQ0xrSHJmMHdHVUkxIn0=
+	</data>
+	<key>popup_never_show_tastes_info</key>
+	<true/>
+	<key>popup_never_show_viewer_tutorial</key>
+	<dict>
+		<key>img_viewer_tutorial_image_01</key>
+		<date>2026-06-12T12:22:12Z</date>
+	</dict>
+	<key>popup_show_welcome</key>
+	<false/>
+</dict>
+</plist>
