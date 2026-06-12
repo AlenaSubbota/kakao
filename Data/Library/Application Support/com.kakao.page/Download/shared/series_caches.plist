@@ -35,6 +35,35 @@
 			<key>updatedDate</key>
 			<date>2026-06-12T12:20:54Z</date>
 		</dict>
+		<key>69023040</key>
+		<dict>
+			<key>ageGrade</key>
+			<integer>0</integer>
+			<key>authors</key>
+			<string>유지원</string>
+			<key>category</key>
+			<string>웹소설</string>
+			<key>categoryTranslated</key>
+			<string>Novel</string>
+			<key>categoryUid</key>
+			<integer>11</integer>
+			<key>count</key>
+			<integer>2</integer>
+			<key>seriesId</key>
+			<string>69023040</string>
+			<key>size</key>
+			<real>1.292148</real>
+			<key>subCategory</key>
+			<string>로맨스</string>
+			<key>subCategoryTranslated</key>
+			<string>Romance</string>
+			<key>subCategoryUid</key>
+			<integer>89</integer>
+			<key>title</key>
+			<string>21세기 대군부인 in 왕립학교</string>
+			<key>updatedDate</key>
+			<date>2026-06-12T12:58:37Z</date>
+		</dict>
 	</dict>
 </dict>
 </plist>

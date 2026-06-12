@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>downloadedItems</key>
+	<dict>
+		<key>69273841</key>
+		<dict>
+			<key>downloadedAt</key>
+			<date>2026-06-12T12:58:37Z</date>
+			<key>orderValue</key>
+			<integer>29</integer>
+			<key>purchaseInfo</key>
+			<dict>
+				<key>purchaseType</key>
+				<string>buy</string>
+			</dict>
+			<key>singleId</key>
+			<string>69273841</string>
+			<key>size</key>
+			<real>0.646029</real>
+			<key>slideType</key>
+			<string>SD02</string>
+			<key>title</key>
+			<string>21세기 대군부인 in 왕립학교 29화</string>
+		</dict>
+		<key>69273843</key>
+		<dict>
+			<key>downloadedAt</key>
+			<date>2026-06-12T12:58:31Z</date>
+			<key>orderValue</key>
+			<integer>30</integer>
+			<key>purchaseInfo</key>
+			<dict>
+				<key>purchaseType</key>
+				<string>buy</string>
+			</dict>
+			<key>singleId</key>
+			<string>69273843</string>
+			<key>size</key>
+			<real>0.646119</real>
+			<key>slideType</key>
+			<string>SD02</string>
+			<key>title</key>
+			<string>21세기 대군부인 in 왕립학교 30화 (완결)</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
